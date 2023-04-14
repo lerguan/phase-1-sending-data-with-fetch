@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +23,403 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 1
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 2
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 3
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 4
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 5
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 6
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 7
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 8
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 9
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 10
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 11
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 12
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 13
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 14
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 15
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 16
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 17
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 18
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 19
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 20
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 21
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 22
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 23
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 24
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 25
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 26
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 27
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 28
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 29
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 30
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 31
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 32
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 33
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 34
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 35
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 36
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 37
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 38
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 39
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 40
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 41
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 42
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 43
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 44
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 45
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 46
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 47
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 48
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 49
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 50
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 51
+    },
+    {
+      "name": "leroy",
+      "email": "leorymail",
+      "id": 52
+    },
+    {
+      "name": "leroy",
+      "email": "leroy@mail.com",
+      "id": 53
+    },
+    {
+      "name": "leroy",
+      "email": "leroy@mail.com",
+      "id": 54
+    },
+    {
+      "name": "leroy",
+      "email": "leroy@mail.com",
+      "id": 55
+    },
+    {
+      "name": "leroy",
+      "email": "leroy@mail.com",
+      "id": 56
+    },
+    {
+      "name": "leroy",
+      "email": "leroy@mail.com",
+      "id": 57
+    },
+    {
+      "name": "leroy",
+      "email": "leroy@mail.com",
+      "id": 58
+    },
+    {
+      "name": "leroy",
+      "email": "leroy@mail.com",
+      "id": 59
+    },
+    {
+      "name": "leroy",
+      "email": "leroy@mail.com",
+      "id": 60
+    },
+    {
+      "name": "leroy",
+      "email": "leroy@mail.com",
+      "id": 61
+    },
+    {
+      "name": "leroy",
+      "email": "leroy@mail.com",
+      "id": 62
+    },
+    {
+      "name": "leroy",
+      "email": "leroy@mail.com",
+      "id": 63
+    },
+    {
+      "name": "leroy",
+      "email": "leroy@mail.com",
+      "id": 64
+    },
+    {
+      "name": "leroy",
+      "email": "leroy@mail.com",
+      "id": 65
+    },
+    {
+      "name": "leroy",
+      "email": "leroy@mail.com",
+      "id": 66
+    },
+    {
+      "name": "leroy",
+      "email": "leroy@mail.com",
+      "id": 67
+    },
+    {
+      "name": "leroy",
+      "email": "leroy@mail.com",
+      "id": 68
+    },
+    {
+      "name": "leroy",
+      "email": "leroy@mail.com",
+      "id": 69
+    },
+    {
+      "name": "leroy",
+      "email": "leroy@mail.com",
+      "id": 70
+    },
+    {
+      "name": "leroy",
+      "email": "leroy@mail.com",
+      "id": 71
+    },
+    {
+      "name": "leroy",
+      "email": "leroy@mail.com",
+      "id": 72
+    },
+    {
+      "name": "leroy",
+      "email": "leroy@mail.com",
+      "id": 73
+    },
+    {
+      "name": "leroy",
+      "email": "leroy@mail.com",
+      "id": 74
+    },
+    {
+      "name": "leroy",
+      "email": "leroy@mail.com",
+      "id": 75
+    },
+    {
+      "name": "leroy",
+      "email": "leroy@mail.com",
+      "id": 76
+    },
+    {
+      "name": "leroy",
+      "email": "leroy@mail.com",
+      "id": 77
+    },
+    {
+      "name": "leroy",
+      "email": "leroy@mail.com",
+      "id": 78
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
